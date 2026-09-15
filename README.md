@@ -42,6 +42,6 @@ AUDIT_CHANNEL_ID=your_security_room_channel_id
 
 ### 3. Run the Bot
 
-## ☕ Support & Sponsorship
+# ☕ Support & Sponsorship
 If you find this dual-channel architecture useful for your own Discord communities, consider supporting continued development!
 
