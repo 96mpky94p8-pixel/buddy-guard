@@ -73,7 +73,7 @@ async def spontaneous_talk():
 """
         try:
             res = ai_client.models.generate_content(
-                model="gemini-2.0-flash",
+                model="gemini-3.6-flash",
                 contents=talk_prompt
             )
             await talk_ch.send(res.text)
