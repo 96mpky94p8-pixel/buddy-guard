@@ -30,7 +30,7 @@ Instead of relying on a single prompt, this bot enforces an **out-of-band audit*
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
 pip install -r requirements.txt
 
@@ -43,8 +43,6 @@ AUDIT_CHANNEL_ID=your_security_room_channel_id
 
  3. Run the Bot
 python bot.py
-
-```
 
 # ☕ Support & Sponsorship
 If you find this dual-channel architecture useful for your own Discord communities, consider supporting continued development!
