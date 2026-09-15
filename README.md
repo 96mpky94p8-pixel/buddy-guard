@@ -29,9 +29,7 @@ Instead of relying on a single prompt, this bot enforces an **out-of-band audit*
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/96mpky94p8-pixel/buddy-guard.git
-cd buddy-guard
-pip install -r requirements.txt
+git clone https://github.com/96mpky94p8-pixel/buddy-guard/blob/main/README.md
 
 ```
 
