@@ -73,7 +73,7 @@ async def spontaneous_talk():
 """
         try:
             res = ai_client.models.generate_content(
-                model="gemini-2.0-flash",
+                model="gemini-3.6-flash",
                 contents=talk_prompt
             )
             await talk_ch.send(res.text)
@@ -119,7 +119,7 @@ async def on_message(message):
 
     try:
         audit_res = ai_client.models.generate_content(
-            model="gemini-2.0-flash",
+            model="gemini-3.6-flash",
             contents=audit_prompt,
             config={"temperature": 0.1}
         )
@@ -162,7 +162,7 @@ async def on_message(message):
 """
     try:
         chat_res = ai_client.models.generate_content(
-            model="gemini-2.0-flash",
+            model="gemini-3.6-flash",
             contents=chat_prompt,
             config={"temperature": chosen_temp}
         )
