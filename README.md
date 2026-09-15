@@ -24,13 +24,13 @@ Instead of relying on a single prompt, this bot enforces an **out-of-band audit*
 * 🚀 **Drop-in Discord Integration**: Built with `discord.py` and Google AI Studio (Gemini).
 
 ---
-
 ## 🛠️ Quick Start
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/96mpky94p8-pixel/buddy-guard/blob/main/README.md
-
+git clone https://github.com/96mpky94p8-pixel/buddy-guard.git
+cd buddy-guard
+pip install -r requirements.txt
 ```
 
 2. Configure Environment Variables
