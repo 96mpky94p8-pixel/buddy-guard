@@ -32,18 +32,20 @@ Instead of relying on a single prompt, this bot enforces an **out-of-band audit*
 git clone[https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
 pip install -r requirements.txt
+```
 
 2. Configure Environment Variables
 Create a ⁠.env⁠ file in the root directory:
 
+```bash
 DISCORD_BOT_TOKEN=your_discord_token
 GEMINI_API_KEY=your_gemini_api_key
 AUDIT_CHANNEL_ID=your_security_room_channel_id
-
-Run the Bot
-
+```
+3．Run the Bot
+```bash
 python bot.py
-
+```
 ☕ Support & Sponsorship
 If you find this dual-channel architecture useful for your own Discord communities, consider supporting continued development!
 
