@@ -48,5 +48,5 @@ python bot.py
 ☕ Support & Sponsorship
 If you find this dual-channel architecture useful for your own Discord communities, consider supporting continued development!
 
-
+https://ofuse.me/b8699cbc
 
