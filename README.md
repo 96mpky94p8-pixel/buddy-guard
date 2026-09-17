@@ -45,8 +45,10 @@ AUDIT_CHANNEL_ID=your_security_room_channel_id
 ```bash
 python bot.py
 ```
-☕ Support & Sponsorship
+## ☕ Support & Sponsorship
+
 If you find this dual-channel architecture useful for your own Discord communities, consider supporting continued development!
 
-https://ofuse.me/b8699cbc
+[![OFUSE](https://img.shields.io/badge/Support_on-OFUSE-orange?style=for-the-badge&logo=coffeescript&logoColor=white)](https://ofuse.me/b8699cbc)
+
 
